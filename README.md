@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasankpenugonda&label=Profile%20views&color=0e75b6&style=flat" alt="sasankpenugonda" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sasankpenugonda" target="blank"><img src="https://img.shields.io/twitter/follow/sasankpenugonda?logo=twitter&style=for-the-badge" alt="sasankpenugonda" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sasankpenugonda" target="blank"><img src="https://img.shields.io/twitter/follow/Sasankpenugonda?logo=twitter&style=for-the-badge" alt="Sasankpenugonda" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, JavaScript, Selenium**
 
@@ -15,11 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sasankpenugonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sasankpenugonda" height="30" width="40" /></a>
+<a href="https://twitter.com/Sasankpenugonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sasankpenugonda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/durga-sai-sasank-penugonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="durga-sai-sasank-penugonda" height="30" width="40" /></a>
-<a href="https://instagram.com/sasankpenugonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasankpenugonda" height="30" width="40" /></a>
+<a href="https://instagram.com/sasank_penugonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasank_penugonda" height="30" width="40" /></a>
 <a href="https://medium.com/@technosasank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@technosasank" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/technosasank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technosasank" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@technosasank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="technosasank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
