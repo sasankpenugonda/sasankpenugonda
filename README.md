@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/Sasankpenugonda" target="blank"><img src="https://img.shields.io/twitter/follow/Sasankpenugonda?logo=twitter&style=for-the-badge" alt="Sasankpenugonda" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, JavaScript, Selenium**
+- 🌱 I’m currently learning **Springboot, Node JS**
 
 - 📝 I regularly write articles on [https://medium.com/@technosasank](https://medium.com/@technosasank)
 
